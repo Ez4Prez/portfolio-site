@@ -6,6 +6,7 @@ function Home() {
         <div className="home">
             <h1 className="home-header">Ezra's workspace.</h1>
             <div className="welcome-container">
+                <img src="https://www.creativefabrica.com/wp-content/uploads/2023/05/30/Colorful-Ink-Splash-Paint-splatter-Graphics-70939700-1.jpg" alt="paint-img" />
             </div>
             <div className="bio-container">
                 <h4 className="bio">
