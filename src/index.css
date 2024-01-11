@@ -18,13 +18,16 @@ code {
   justify-content: flex-end;
   flex-direction: column;
   align-items: center;
+  background-color: #1d2433;
 
 }
 
 .nav-links-group {
   display: flex;
   gap: 125px;
-  background-color: darkgreen;
+  background-color: #2f3b54;
+  color: #5ccfe6;
+  opacity: 85%;
   align-items: center;
   border-radius: 16px;
   border: none;
@@ -58,7 +61,8 @@ code {
 }
 
 .projects-page {
-  background-color: blue;
+  background-color: #1d2433;
+  color: #ffcc66;
   display: flex;
   flex-direction: column;
   /* justify-content: center; */
@@ -71,7 +75,7 @@ code {
 }
 
 .projects-container {
-  background-color: brown;
+  background-color: #1d2433;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -82,8 +86,8 @@ code {
 }
 
 #nue-kid-carousel {
-  height: 550px;
-  width: 900px;
+  height: 500px;
+  width: 750px;
   margin-top: 150px;
 }
 
@@ -92,17 +96,18 @@ code {
   display: flex;
   justify-content: center;
   gap: 15px;
-  margin-top: 30px;
 }
 
 .nuekid-bio-container {
   display: flex;
   flex-direction: column;
-  background-color: aqua;
+  background-color: #1d2433;
+  color: white;
   align-items: center;
   justify-content: center;
   gap: 10px;
   margin-top: 300px;
+
 }
 
 .nuekid-bio-btn-wrap {
@@ -115,14 +120,15 @@ code {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: blueviolet;
+  background-color: #1d2433;
+  color: white;
   gap: 10px;
   margin-top: 300px;
 }
 
 #thrifter-carousel {
-  height: 550px;
-  width: 900px;
+  height: 500px;
+  width: 750px;
   margin-top: 150px;
 }
 
@@ -131,12 +137,11 @@ code {
   display: flex;
   justify-content: center;
   gap: 15px;
-  margin-top: 30px;
 }
 
 #marvel-carousel {
-  height: 550px;
-  width: 900px;
+  height: 500px;
+  width: 750px;
   margin-top: 150px;
 }
 
@@ -145,13 +150,13 @@ code {
   display: flex;
   justify-content: center;
   gap: 15px;
-  margin-top: 30px;
 }
 
 .marvel-bio-container {
   display: flex;
   flex-direction: column;
-  background-color: aqua;
+  background-color: #1d2433;
+  color: white;
   align-items: center;
   justify-content: center;
   gap: 10px;

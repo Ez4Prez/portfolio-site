@@ -47,7 +47,7 @@ function Projects() {
                     </div>
                 </div>
 
-                <div className="nuekid-bio-container" style={{ width: '600px', height: '500px' }}>
+                <div className="nuekid-bio-container" style={{ width: '500px', height: '450px' }}>
                     <h3 className="nuekid-bio-header">Nue Kid</h3>
                     <h4 className="nuekid-bio-subhead">Purpose</h4>
                     <text className="nuekid-bio-text">
@@ -63,7 +63,7 @@ function Projects() {
                     </div>
                 </div>
 
-                <div className="thrifter-bio-container" style={{ width: '600px', height: '500px' }}>
+                <div className="thrifter-bio-container" style={{ width: '500px', height: '450px' }}>
                     <h3 className="thrifter-bio-header">Thrifter</h3>
                     <h4 className="thrifter-bio-subhead">Purpose</h4>
                     <text className="thrifter-bio-text">
@@ -138,7 +138,7 @@ function Projects() {
                     </div>
                 </div>
 
-                <div className="marvel-bio-container" style={{ width: '600px', height: '500px' }}>
+                <div className="marvel-bio-container" style={{ width: '500px', height: '450px' }}>
                     <h3 className="marvel-bio-header">Marvel Fanpage</h3>
                     <h4 className="marvel-bio-subhead">Purpose</h4>
                     <text className="marvel-bio-text">
